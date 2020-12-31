@@ -5,5 +5,5 @@ In a perfectly efficient market, buyers and sellers would have all the agency an
 Developing trading strategies to identify and take advantage of inefficiencies is challenging. Even if a strategy is profitable now, it may not be in the future, and market volatility makes it impossible to predict the profitability of any given trade with certainty. As a result, it can be hard to distinguish good luck from having made a good trading decision.
 
 ## Note :
-This is a personal application of Principle Component Analysis on Jane Street Kaggle Competition.
+* This is a personal application of Principle Component Analysis on Jane Street Kaggle Competition.
 Please download the dataset on your own.
